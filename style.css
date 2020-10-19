@@ -1,0 +1,52 @@
+.heading {
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div_speed {
+    float: left;
+}
+
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+    pointer-events: none;
+}
+
+#volume {
+    font-size: 23;
+    margin: 15px;
+    pointer-events: none;
+}
+
+.div_volume {
+    float: right;
+}
+
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+    pointer-events: none;
+}
+
+#volume {
+    font-size: 23;
+    margin: 15px;
+    pointer-events: none;
+}
